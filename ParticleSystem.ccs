@@ -1,0 +1,40 @@
+<Solution>
+  <PropertyGroup Name="ParticleSystem" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistImageFolder Image="particletexture.png" PListFile="particletexture.plist" Name=".particletexture_PList.Dir">
+          <PlistImageFile Name="bubble.png" Key="bubble.png" />
+          <PlistImageFile Name="bubble_1.png" Key="bubble_1.png" />
+          <PlistImageFile Name="circle.png" Key="circle.png" />
+          <PlistImageFile Name="circle_1.png" Key="circle_1.png" />
+          <PlistImageFile Name="cloud.png" Key="cloud.png" />
+          <PlistImageFile Name="cloud_1.png" Key="cloud_1.png" />
+          <PlistImageFile Name="comet.png" Key="comet.png" />
+          <PlistImageFile Name="comet_1.png" Key="comet_1.png" />
+          <PlistImageFile Name="emittericon.png" Key="emittericon.png" />
+          <PlistImageFile Name="emittericon1.png" Key="emittericon1.png" />
+          <PlistImageFile Name="emitteroff.png" Key="emitteroff.png" />
+          <PlistImageFile Name="emitteron.png" Key="emitteron.png" />
+          <PlistImageFile Name="emittertd.png" Key="emittertd.png" />
+          <PlistImageFile Name="flare.png" Key="flare.png" />
+          <PlistImageFile Name="raindrop.png" Key="raindrop.png" />
+          <PlistImageFile Name="raindrop_1.png" Key="raindrop_1.png" />
+          <PlistImageFile Name="sliderballnormal.png" Key="sliderballnormal.png" />
+          <PlistImageFile Name="sliderballpressed.png" Key="sliderballpressed.png" />
+          <PlistImageFile Name="sliderProgress.png" Key="sliderProgress.png" />
+          <PlistImageFile Name="sliderTrack.png" Key="sliderTrack.png" />
+          <PlistImageFile Name="spark.png" Key="spark.png" />
+          <PlistImageFile Name="spark_1.png" Key="spark_1.png" />
+        </PlistImageFolder>
+        <TTF Name="arial.ttf" />
+        <Image Name="background.png" />
+        <Fnt Name="couriernew32.fnt" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <TTF Name="Marker Felt.ttf" />
+        <PlistParticleFile Name="particle_texture.plist" />
+        <Project Name="Pic.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
