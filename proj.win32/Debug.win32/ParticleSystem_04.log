@@ -1,0 +1,11 @@
+﻿  CParticleSystem.cpp
+c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccparticlesystemquad.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\physics\ccphysicsbody.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\physics\ccphysicsshape.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\platform\ccsaxparser.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+c:\users\ohmygad5987326\desktop\110319022趙子榮\particlesystem_04\classes\cparticlesystem.cpp(158): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\ohmygad5987326\desktop\110319022趙子榮\particlesystem_04\classes\cparticlesystem.cpp(347): warning C4305: 'argument': truncation from 'double' to 'const float'
+  已複製 60 個檔案
+  ParticleSystem_04.vcxproj -> C:\Users\ohmygad5987326\Desktop\110319022趙子榮\ParticleSystem_04\proj.win32\Debug.win32\ParticleSystem_04.exe
+  ParticleSystem_04.vcxproj -> C:\Users\ohmygad5987326\Desktop\110319022趙子榮\ParticleSystem_04\proj.win32\Debug.win32\ParticleSystem_04.pdb (Full PDB)
+  已複製 0 個檔案
